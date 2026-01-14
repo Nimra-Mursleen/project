@@ -59,12 +59,13 @@ It uses **Terraform** to provision the infrastructure and **Ansible Roles** to a
 ![alt text](/LabProject_FrontendBackend/screenshots/Picture5.png)
 - Backend-2:
 ![alt text](/LabProject_FrontendBackend/screenshots/Picture6.png)
-
+- Backend-3:
+![alt text](/LabProject_FrontendBackend/screenshots/Picture7.png)
 ### Automation:
 
 ```bash
 terraform destroy -auto-approve
 ```
-![alt text](/LabProject_FrontendBackend/screenshots/Picture8.png)
+![alt text](/LabProject_FrontendBackend/screenshots/Picture9.png)
 
 
