@@ -65,6 +65,6 @@ It uses **Terraform** to provision the infrastructure and **Ansible Roles** to a
 ```bash
 terraform destroy -auto-approve
 ```
-![alt text](/LabProject_FrontendBackend/screenshots/Picture8.png)
+![alt text](/LabProject_FrontendBackend/screenshots/Picture9.png)
 
 
