@@ -48,6 +48,7 @@ It uses **Terraform** to provision the infrastructure and **Ansible Roles** to a
 1. **terraform init works.**
 
 ![alt text](/LabProject_FrontendBackend/screenshots/Picture2.png)
+
 2. **terraform apply -auto-approve successfully:**
 
 ![alt text](/LabProject_FrontendBackend/screenshots/Picture3.png)
